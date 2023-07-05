@@ -46,20 +46,6 @@ Excited to learn and contribute to the developer community!</em>
 
 
 
-<h3>Languages:</h3> <h4></h4>
-<a href="https://github.com/matteusmoreno">
-  <img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="Texto alternativo" style="width: 100px; height: auto; border: none;">
-</a>
-
-<a href="https://github.com/matteusmoreno">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Texto alternativo" style="width: 81px; height: auto; border: none;">
-</a>
-
-
-
-
-
-
 
 
 
