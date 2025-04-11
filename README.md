@@ -1,12 +1,15 @@
-<h2 align="center">Hi, I'm Matteus Moreno 👋</h2>
-<h4 align="center">Aspiring Backend Developer | Sharing my journey through code 🚀</h4>
+<h2 align="center">
+  Hi, I'm Matteus Moreno
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand gif"/>
+</h2>
 
+<h3 align="center">Backend Developer</h3>
 <p align="center">
-  Currently building projects to improve my skills in backend development.<br>
-  I’m passionate about learning new technologies and contributing to the developer community.
+  I'm a backend developer driven by the challenge of building efficient, scalable, and maintainable systems.<br>
+  I continuously explore new technologies through hands-on projects, with a strong focus on cloud computing, DevOps practices, and distributed architectures.
 </p>
 
-<hr>
+<h2></h2>
 
 <h3 align="center">💻 Technologies</h3>
 
@@ -69,6 +72,8 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
 </p>
 
+<br></br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,6 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusmoreno&layout=compact&langs_count=6&theme=tokyonight" height="180px"/>
 </div>
 
+<br></br>
 
 ## 🌐 Connect with me
 
